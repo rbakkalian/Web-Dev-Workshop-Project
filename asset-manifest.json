@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AUA-Workshop/static/css/main.e1dc356f.css",
+    "main.js": "/AUA-Workshop/static/js/main.abee5fb1.js",
+    "static/media/img-2.jpg": "/AUA-Workshop/static/media/img-2.bb238fc1bea8ae2474d2.jpg",
+    "static/media/img-1.jpg": "/AUA-Workshop/static/media/img-1.53f4843759ebec256cb9.jpg",
+    "static/media/img-8.jpg": "/AUA-Workshop/static/media/img-8.fabdf94dc5be2d3dc707.jpg",
+    "index.html": "/AUA-Workshop/index.html",
+    "main.e1dc356f.css.map": "/AUA-Workshop/static/css/main.e1dc356f.css.map",
+    "main.abee5fb1.js.map": "/AUA-Workshop/static/js/main.abee5fb1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1dc356f.css",
+    "static/js/main.abee5fb1.js"
+  ]
+}
